@@ -1,0 +1,48 @@
+.cen{
+    margin-top: 6%;
+    margin-bottom: 1%;
+    margin-left: 4%;
+    margin-right: 4%;
+    background-color: burlywood;
+    border: 15px solid #304753;
+}
+article h2{
+    color: white;
+    background-color:  #1F96FF;
+    text-align: center;
+    font-family: "Among";
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+article p{
+    color: #304753;
+    background-color: white;
+    font-family: "Internet";
+    font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding: 5%;
+    text-align: justify;
+}
+aside p{
+    color: white;
+    background-color:  #304753;
+    font-family: "Internet";
+    font-size: 25px;
+    margin-top: 1%;
+    padding: 2%;
+    text-align: center;
+}
+footer{
+    color: white;
+    background-color:  #304753;
+    font-family: "Internet";
+    font-size: 25px;
+    padding: 2%;
+    text-align: center;
+}

@@ -1,0 +1,164 @@
+.el{
+    margin-top: 6%;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    background-color: burlywood;
+    border: 15px solid #304753;
+}
+@font-face {
+    font-family: "Among";
+    src: url("../tipografia/AMONG.otf");
+}
+h1{
+    color: white;
+    background-color:  #1F96FF;
+    text-align: center;
+    font-family: "Among";
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+.bandera img{
+    width: 30%;
+    height: 20%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 34%;
+    border: 5px solid white;
+}
+h2{
+    color: white;
+    background-color:  #1F96FF;
+    text-align: center;
+    font-family: "Among";
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+@font-face {
+    font-family: "Internet";
+    src: url("../tipografia/LTInternet-Bold.ttf");
+}
+.his p{
+    color: #304753;
+    background-color: white;
+    font-family: "Internet";
+    font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding: 5%;
+    text-align: justify;
+}
+h3{
+    color: white;
+    background-color:  #1F96FF;
+    text-align: center;
+    font-family: "Among";
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+.ex p{
+    color: #304753;
+    background-color: white;
+    font-family: "Internet";
+    font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding: 5%;
+    text-align: justify;
+}
+h4{
+    color: white;
+    background-color:  #1F96FF;
+    text-align: center;
+    font-family: "Among";
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+.si h4{
+    color: #304753;
+    background-color:  white;
+    text-align: center;
+    font-family: "Among";
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+.si img{
+    width: 30%;
+    height: 20%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 34%;
+    border: 5px solid white;
+}
+h5{
+    color: white;
+    background-color:  #1F96FF;
+    text-align: center;
+    font-family: "Among";
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+.de p{
+    color: #304753;
+    background-color: white;
+    font-family: "Internet";
+    font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding: 5%;
+    text-align: justify;
+}
+h6{
+    color: white;
+    background-color:  #1F96FF;
+    text-align: center;
+    font-family: "Among";
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+.lu h6{
+    color: #304753;
+    background-color:  white;
+    text-align: center;
+    font-family: "Among";
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    border: 5px solid #304753;
+}
+.lu img{
+    width: 30%;
+    height: 20%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 34%;
+    border: 5px solid white;
+}
